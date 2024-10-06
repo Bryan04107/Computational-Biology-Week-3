@@ -1,1 +1,2 @@
-# Computational-Biology-Week-3
+# Computational Biology Week 3
+### By: Bryan Sujoso
